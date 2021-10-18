@@ -1,6 +1,6 @@
 # Dell-7070-Ultra
 
-![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/11.1%2020C69.png)
+![](https://github.com/Xmingbai/Dell-7070-Ultra/blob/main/%E6%88%AA%E5%B1%8F2021-10-18%20%E4%B8%8B%E5%8D%8810.37.00.png)
 
 
 
