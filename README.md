@@ -1,5 +1,9 @@
 # Dell-7070-Ultra
 
+![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/11.1%2020C69.png)
+
+
+
 要想流畅体验macOS操作系统，必须修改bios 
 
 # 以下重要BIOS设置选项，需关闭
