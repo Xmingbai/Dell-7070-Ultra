@@ -7,7 +7,7 @@
 要想流畅体验macOS操作系统，必须修改bios 
 
 # 以下重要BIOS设置选项，需关闭
-安全启动
+security boot
 SGX
 TPM 
 
