@@ -23,10 +23,9 @@ WIFI：BCM94352Z
 
 可选 ：解锁cfg lock 为disable  对应命令    setup_var  0x6F0   0x0  
 
-# OC引导目前驱动完善程度 接近白果
+# OC引导目前驱动完善程度 非常接近白果
 
-成功安装macOS11.6 理论支持12.x
-
+支持  macOS Catalina 10.15.x & big sur 11.x  & monterey 12.0.1
 
 关于本机基本信息识别正
 
