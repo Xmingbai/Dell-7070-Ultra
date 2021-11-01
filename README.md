@@ -1,5 +1,9 @@
 # Dell-7070-Ultra  支持  macOS Catalina 10.15.x & big sur 11.x  & monterey 12.0.1
 
+测评视频：https://www.bilibili.com/video/BV19S4y1R73j/
+
+欢迎关注B站UP： 小明和他的女朋友
+
 ![](https://github.com/Xmingbai/Dell-7070-Ultra/blob/main/%E6%88%AA%E5%B1%8F2021-10-18%20%E4%B8%8B%E5%8D%8810.37.00.png)
 
 
