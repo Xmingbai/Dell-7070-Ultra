@@ -13,9 +13,12 @@ TPM
 
 # 硬件配置：
 CPU： i7-8565U
+
 内存： 2根8G DDR4 2400
+
 硬盘：东芝2242 NVME SSD 512G+ SATA SSD 1T
-WIFI：BCM94352Z
+
+WIFI：BCM94352Z(更换了板载无线)
 
 # 还需要使用Grub 命令行工具修改以下参数
 
