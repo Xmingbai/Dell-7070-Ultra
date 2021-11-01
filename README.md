@@ -4,6 +4,8 @@
 
 欢迎关注B站UP： 小明和他的女朋友
 
+欢迎加QQ二群：608352460
+
 ![](https://github.com/Xmingbai/Dell-7070-Ultra/blob/main/%E6%88%AA%E5%B1%8F2021-10-18%20%E4%B8%8B%E5%8D%8810.37.00.png)
 
 
